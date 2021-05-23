@@ -10,8 +10,8 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 - [ ] submit the repository and the hosted github pages to Canvas
 
 ## Self-Reflection:
-
+I feel that I have to review javascript and github again. I had not used github a lot in previous classes but need to review it again. It is an essential part of programming and need to do better on it. I had not taken javascript , html/css in awhile and will plan to review the subjects.
 
 ### How long it took me to finish this?
-
+It took to long. I should have been able to complete it faster. I need to review the material again.
 -----------------------
